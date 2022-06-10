@@ -2,7 +2,7 @@
 
 ## Gits
 - [Disroot](https://git.disroot.org/asterisk): Main git for *general* usage
-- [envs.net](https://git.envs.net/marguesto): dumping *useless* code
+- [envs.net](https://git.envs.net/marguesto): Dumping *useless* code
 
 ## GeneralDumping
 - [JavaDumping](https://git.disroot.org/asterisk/JavaDumping): I dump useless java code
