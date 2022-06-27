@@ -2,7 +2,7 @@
 
 ## Gits
 - [Disroot](https://git.disroot.org/asterisk): Main repositories
-## Marguesto's directories
+## *nix Directories
 - [~/bin/](https://git.disroot.org/asterisk/bin): asterisk's ~/bin/ directory
 ## GeneralDumping
 - [JavaDumping](https://git.disroot.org/asterisk/JavaDumping): A repository to dump useless Java code
