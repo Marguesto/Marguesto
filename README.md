@@ -3,7 +3,7 @@
 ## Gits
 - [Disroot](https://git.disroot.org/asterisk): Main repositories
 ## *nix Directories
-- [~/bin/](https://git.disroot.org/asterisk/bin): asterisk's ~/bin/ directory
+- [~/bin/](https://git.disroot.org/asterisk/bin): Asterisk's ~/bin/ directory
 ## MiniRecreationals
 - [JavaMiniRecreatinals](https://git.disroot.org/asterisk/JavaMiniRecreationals): Small-sized recreational projects written in java
 ## GeneralDumping
